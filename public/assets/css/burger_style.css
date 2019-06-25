@@ -1,0 +1,21 @@
+#burgerRow {
+    height: 450px;
+}
+
+#left {
+    background-image: url(/assets/img/plate.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#right {
+    background-image: url(/assets/img/mouth.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: auto;
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+}
