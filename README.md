@@ -9,8 +9,8 @@ Create a fancy burger and devour it!
 * mySql database
 * HTML
 
-![Home Page](https://github.com/mtvalencia/ProjectFiles/blob/master/burgerForm.PNG)
+![Create a Burger](https://github.com/mtvalencia/ProjectFiles/blob/master/burgerForm.PNG)
 
-![JSON](https://github.com/mtvalencia/ProjectFiles/blob/master/burger.PNG)
+![Burger](https://github.com/mtvalencia/ProjectFiles/blob/master/burger.PNG)
 
-![Friend](https://github.com/mtvalencia/ProjectFiles/blob/master/eatingBurger.PNG)
+![Eat](https://github.com/mtvalencia/ProjectFiles/blob/master/eatingBurgers.PNG)
